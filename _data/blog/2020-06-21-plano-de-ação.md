@@ -3,7 +3,7 @@ template: BlogPost
 path: /plano-de-acao
 date: 2020-06-21T11:13:50.222Z
 title: Plano de ação
-thumbnail: /assets/plano-de-acao.svg
+thumbnail: /assets/plano-de-acao-featured.jpg
 ---
 ## Meu objetivo
 

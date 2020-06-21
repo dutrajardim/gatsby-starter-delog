@@ -4,6 +4,9 @@ path: /5w2h
 date: 2020-06-21T12:59:26.873Z
 title: A ferramenta 5w2h
 ---
+## O que é o 5W2H
+O 5W2H é uma ferramenta que pode ser utilizada no planejamento estratégico das empresas. A partir de uma meta ela auxilia a organizar as ações e determinar o que será feito para alcançar esta meta, por qual razão, por quem, como, quando e onde será feito, além de estimar quanto isso custará.
+
 ## Planilha 5W2H
 | | |                                                                                                                                                                   
 | ------------- | ------|

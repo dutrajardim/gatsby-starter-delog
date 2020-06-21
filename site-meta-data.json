@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Julyana Moraes",
+  "siteUrl": "https://julyanamoraes.netlify.app/",
+  "description": "Portfólio de apresentação para a matéria de LAI do curso de Design Gráfico na UNA",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Olá! Eu sou Julyana Moraes",
+    "description": "Estudo Design Gráfico há um ano na Universidade UNA em Contagem-MG e criei este portfólio como um projeto da matéria de LAI, para apresentação de meus trabalhos durante a minha trajetória neste curso.\n\nA troca de experiência oferece a oportunidade de aprendermos através da vivência de outros, dessa forma, busco neste espaço da web, apresentar meus trabalhos escolares e espero que este permita à outro estudantes que ainda caminharão por este caminho atingir objetivo ainda maiores."
   }
 }

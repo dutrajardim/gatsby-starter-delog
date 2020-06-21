@@ -10,6 +10,7 @@ body {
 }
 body.light {
   --primary-color: #381696;
+  --rgb-primary-color: 56, 22, 150;
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
   --featured-text: #fff;
@@ -30,6 +31,7 @@ body.light {
 }
 body.dark {
   --primary-color: #9984d5;
+  --rgb-primary-color: 153, 132, 219;
   --primary-text-color: #fff;
   --featured-bg: #66578d;
   --featured-text: #fff;

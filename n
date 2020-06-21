@@ -1,0 +1,10 @@
+#!/bin/bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+
+
+mkdir -p "/run/user/1000/snap.microk8s"
+
+microk8s ctr --namespace cli.io run --net-host --rm \
+        --mount type=bind,src="$DIR",dst=/app,options=rbind:rw \
+        --cwd /app \
+        docker.io/library/node:lts-slim node $@

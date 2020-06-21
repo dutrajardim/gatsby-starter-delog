@@ -2,6 +2,7 @@
 template: BlogPost
 path: /5w2h
 date: 2020-06-21T12:59:26.873Z
+metaDescription: ""
 title: A ferramenta 5w2h
 ---
 ## O que é o 5W2H

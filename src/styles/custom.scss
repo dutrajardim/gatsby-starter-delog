@@ -1,0 +1,13 @@
+.blog-post-content {
+    table {
+        td {
+            min-width: 100px;
+            padding: 10px;
+        }
+        tr {
+            &:nth-child(odd) {
+                background-color: rgba(var(--rgb-primary-color), .3);
+            }
+        }
+    }
+}

@@ -7,7 +7,7 @@ const notFound = () => {
   return (
     <Layout>
       <Helmet>
-        <title>Page not found</title>
+        <title>Página não encontrada</title>
       </Helmet>
       <div style={{textAlign: "center", padding:"5vh 0", lineHeight: "1.5"}}>
         <svg
@@ -37,7 +37,7 @@ const notFound = () => {
             fill="currentColor"
           />
         </svg>
-        <p>Either you are in a wrong page or you have lost. Lets go back <Link to="/">home</Link> safely</p>
+        <p>Ou você esta em uma página errada ou você esta perdido. Vamos voltar para o <Link to="/">início</Link> de forma segura</p>
       </div>
     </Layout>
   )

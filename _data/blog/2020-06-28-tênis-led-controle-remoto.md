@@ -10,4 +10,6 @@ thumbnail: /assets/Modelo de Negócio - CANVAS tenis2.jpg
 
 Foi desenvolvido em grupo um projeto de um tênis com led, que através do controle remoto conseguimos mudar suas cores, o tornando versátil.
 
+## Modelo de Negócios Canvas
+
 ![](/assets/canvas.png)

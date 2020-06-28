@@ -6,3 +6,5 @@ title: Tênis Led Controle Remoto
 metaDescription: ''
 ---
 Foi desenvolvido em grupo um projeto de um tênis com led, que através do controle remoto conseguimos mudar suas cores, o tornando versátil.
+
+![](/assets/Modelo de Negócio - CANVAS imagem.png)

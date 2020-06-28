@@ -4,7 +4,7 @@ path: /5w2h
 date: 2020-06-21T12:59:26.873Z
 title: A ferramenta 5w2h
 metaDescription: ''
-thumbnail: /assets/g50.png
+thumbnail: /assets/5W2H.png
 ---
 ## O que é o 5W2H?
 

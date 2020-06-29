@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /5w2h
-date: 2020-06-21T12:59:26.873Z
+date: 2020-03-31T12:59:26.873Z
 title: A ferramenta 5w2h
 metaDescription: ''
 thumbnail: /assets/g132.png
